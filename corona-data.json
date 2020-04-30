@@ -1,0 +1,122 @@
+{
+    "Belarus": {
+        "population" : 9449323,
+        "cases" : 13181
+    },
+    "Japan": {
+        "population" : 126476461,
+        "cases" : 13965
+    },
+    "Chile": {
+        "population" : 19116201,
+        "cases" : 15135
+    },
+    "Austria": {
+        "population" : 9006398,
+        "cases" : 15452
+    },
+    "Pakistan": {
+        "population" : 220892340,
+        "cases" : 15759
+    },
+    "Israel": {
+        "population" : 8655535,
+        "cases" : 15870
+    },
+    "Singapore": {
+        "population" : 5850342,
+        "cases" : 16169
+    },
+    "Mexico": {
+        "population" : 128932753,
+        "cases" : 17799
+    },
+    "Ireland": {
+        "population" : 4937786,
+        "cases" : 20253
+    },
+    "Sweden": {
+        "population" : 10099265,
+        "cases" : 20302
+    },
+    "Saudi Arabia": {
+        "population" : 34813871,
+        "cases" : 21402
+    },
+    "Portugal": {
+        "population" : 10196709,
+        "cases" : 24505
+    },
+    "Ecuador": {
+        "population" : 17643054,
+        "cases" : 24675
+    },
+    "Switzerland": {
+        "population" : 8654622,
+        "cases" : 29407
+    },
+    "India": {
+        "population" : 1380004385,
+        "cases" : 33062
+    },
+    "Peru": {
+        "population" : 32971854,
+        "cases" : 33931
+    },
+    "Netherland": {
+        "population" : 17134872,
+        "cases" : 38998
+    },
+    "Belgium": {
+        "population" : 11589623,
+        "cases" : 48519
+    },
+    "Canada": {
+        "population" : 37742154,
+        "cases" : 52865
+    },
+    "Brazil": {
+        "population" : 212559417,
+        "cases" : 79685
+    },
+    "China": {
+        "population" : 1439323776,
+        "cases" : 83944
+    },
+    "Iran": {
+        "population" : 83992949,
+        "cases" : 93657
+    },
+    "Russia": {
+        "population" : 145934462,
+        "cases" : 106498
+    },
+    "Turkey": {
+        "population" : 84339067,
+        "cases" : 117589
+    },
+    "Germany": {
+        "population" : 83783942,
+        "cases" : 161539
+    },
+    "Great Britain": {
+        "population" : 67886011,
+        "cases" : 166441
+    },
+    "France": {
+        "population" : 65273511,
+        "cases" : 166543
+    },
+    "Italy": {
+        "population" : 60461826,
+        "cases" : 203591
+    },
+    "Spain": {
+        "population" : 46754778,
+        "cases" : 236899
+    },
+    "USA": {
+        "population" : 331002651,
+        "cases" : 1040488
+    }   
+}
